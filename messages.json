@@ -1,7 +1,24 @@
 {
-  "users": {},
-  "conversations": {
-    "global": []
+  "users": {
+    "TryNoter": {
+      "name": "TryNoter",
+      "lastSeen": "2025-11-08T15:06:55.263Z",
+      "isOnline": true
+    }
   },
-  "lastUpdate": "2025-11-08T15:02:29.657Z"
+  "conversations": {
+    "global": [
+      {
+        "id": "mhqf432wwf2vi038bvl",
+        "from": "TryNoter",
+        "to": null,
+        "text": "Добро пожаловать в TryNoter! Это Repo Server - сервер TryNoter",
+        "time": "2025-11-08T15:06:55.263Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
+      }
+    ]
+  },
+  "lastUpdate": "2025-11-08T15:06:55.290Z"
 }
