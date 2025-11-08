@@ -2,7 +2,7 @@
   "users": {
     "TryNoter": {
       "name": "TryNoter",
-      "lastSeen": "2025-11-08T15:06:55.263Z",
+      "lastSeen": "2025-11-08T15:08:53.414Z",
       "isOnline": true
     }
   },
@@ -17,8 +17,22 @@
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
+      },
+      {
+        "id": "mhqf6m92282xp6nc6nm",
+        "from": "TryNoter",
+        "to": null,
+        "text": "Теперь вы можете упоминать посты, подробнее в этом поинте",
+        "time": "2025-11-08T15:08:53.414Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 100000,
+          "postTitle": "[TN] - (10.0 - X) - RePoints - Упоминания поинтов!",
+          "postPreview": "Теперь вы можете создать упоминание поинта. Пишете в любом чате команду /tag id Cooбщение - id берет..."
+        }
       }
     ]
   },
-  "lastUpdate": "2025-11-08T15:06:55.290Z"
+  "lastUpdate": "2025-11-08T15:08:53.433Z"
 }
